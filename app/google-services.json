@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "414251556532",
+    "firebase_url": "https://bloodbankbangladesh-72366.firebaseio.com",
+    "project_id": "bloodbankbangladesh-72366",
+    "storage_bucket": "bloodbankbangladesh-72366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414251556532:android:177ca1ccacb725e9",
+        "android_client_info": {
+          "package_name": "com.bloodbankbangladesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414251556532-92np2gn1ib8dli3b99sc1emjm41vkjkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgTcLPMTW-Yj_uuU2G5Hm6SRbFOxawQqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
